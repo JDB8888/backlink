@@ -46,6 +46,6 @@ Top Global Slot Online Gacor Websites</p>
 <p>WEB SLOT DIRECTORY 2023 - 2024 </p>
 </div>
 <!-- Google tag (gtag.js) -->
-<script async src="https://raw.githubusercontent.com/JDB8888/backlink/refs/heads/main/google.js?token=GHSAT0AAAAAAC2GT3U7NQT5LRV3NV56KEGUZZO6C6A"></script>
+<script async src="https://raw.githubusercontent.com/JDB8888/backlink/refs/heads/main/google.js"></script>
 </body>
 </html>
